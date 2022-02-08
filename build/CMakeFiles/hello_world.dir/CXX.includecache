@@ -7,6 +7,10 @@
 #IncludeRegexTransform: 
 
 /home/masif/testProject/bldc_solutions/main.cpp
-cstdio
+iostream
+-
+fstream
+-
+string
 -
 
